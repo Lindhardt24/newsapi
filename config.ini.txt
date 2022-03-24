@@ -1,0 +1,2 @@
+[newsreader]
+api-key = NvCpWI-WN64LU3CujMvhsATDVsOhW0eDVQH4NZcg_Pg
